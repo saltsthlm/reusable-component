@@ -4,3 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+
+.button-board {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 30px;
+}
